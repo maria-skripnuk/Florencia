@@ -556,3 +556,9 @@ a {
     transform: scale(1.05);
     transition-duration: 0.5s;
 }
+.button1 a {
+    color: #fff;
+}
+.button2 a {
+    color: #fff;
+}
